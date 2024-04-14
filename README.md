@@ -1,6 +1,6 @@
 
   <div>
-    <img src="https://github.com/designsoo/designsoo/assets/77719310/23edaaf9-340e-4073-84f6-c96d61afeb43">
+    <img src="https://github.com/designsoo/designsoo/assets/77719310/b5c383b9-410c-4113-b5fc-78a4ba47ff3d">
   </div>
 
   <br />
@@ -17,10 +17,9 @@
   
   <br />
   
-  <h3>💡 Once I've Used 💡</h3>
+  <h3>📚 Once I've used 📚</h3>
   <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">&nbsp
   </div>
 
   <h3>🛠️ Tools 🛠️</h3>
