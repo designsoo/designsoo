@@ -32,6 +32,9 @@
 
   <h3>💌 Contact 💌</h3>
   <div>
+    <a href="https://heesoo-log.vercel.app/">
+      <img src="https://img.shields.io/badge/heesoo.Log-00B388.svg?&style=for-the-badge&logo=&logoColor=white">
+    </a> 
     <img src="https://img.shields.io/badge/kheesoo10@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white">&nbsp
   </div>
   
