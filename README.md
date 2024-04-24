@@ -41,4 +41,4 @@
   <br />
   <br />
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designsoo&theme=tokyonight&icons=true&count_private=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designsoo&count_private=true&theme=tokyonight&icons=true)
