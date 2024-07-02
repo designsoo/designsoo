@@ -26,18 +26,12 @@
 
   <h3>💌 Contact</h3>
   <div>
-    <a href="https://www.heesoo-log.com/" target='_blank' >
-      <img src="https://img.shields.io/badge/heesoo.Log-00B388.svg?&style=for-the-badge&logo=&logoColor=white">
-    </a> 
+    <a href="https://www.heesoo-log.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/heesoo.Log-00B388.svg?&style=for-the-badge&logo=&logoColor=white"></a>
     <img src="https://img.shields.io/badge/kheesoo10@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white">&nbsp
   </div>
 
   <h3>🏅 Stats</h3>
-  <a href="#" onClick="return false;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=designsoo&layout=donut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=30% />
-  </a>    
-  <a href="#" onClick="return false;">
-    <img src="https://github-readme-stats.vercel.app/api?username=designsoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width=44% />
-  </a>
+  <a href="#" onClick="return false;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=designsoo&layout=donut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=30% /></a>    
+  <a href="#" onClick="return false;"><img src="https://github-readme-stats.vercel.app/api?username=designsoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width=44% /></a>
 
 
