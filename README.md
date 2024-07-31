@@ -2,10 +2,10 @@
 
 <h3>About Me</h3>
 <p>
-  I love creating consistent, user-friendly services with a focus on UX and design systems.<br />
-  Currently, I’m improving TypeScript skills and experimenting with new CSS frameworks.
-  I enjoy enhancing development environments and creating seamless, engaging user experiences.
-  On my blog, I write about development issues, solutions, and design-related topics.
+  I am passionate about developing consistent and user-friendly services with a focus on UX and design systems.<br />
+  Currently, I’m improving TypeScript skills and experimenting with new CSS frameworks.<br />
+  I enjoy enhancing development environments and creating seamless, engaging user experiences.<br />
+  On my blog, I write about development issues, solutions, and latest in UX/UI trends.
 </p>
 
 <h3>Projects</h3>
